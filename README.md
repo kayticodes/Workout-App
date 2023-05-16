@@ -18,6 +18,6 @@ The React app includes the following 3 pages:
 - Create Workout Page
 
 
-[walk through](FrontEnd.gif) 
+[Front end walk through](FrontEnd.gif) 
 
-[walk through](Backend.gif) 
+[Back end walk through](Backend.gif) 

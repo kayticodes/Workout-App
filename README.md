@@ -19,5 +19,8 @@ The React app includes the following 3 pages:
 
 
 [Front end walk through](FrontEnd.gif) 
+<p>
+<image src = FrontEnd.gif title = "Front end walk through" width = 280 height = 450><br>
+</p>
 
 [Back end walk through](Backend.gif) 

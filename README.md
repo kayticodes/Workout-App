@@ -25,5 +25,5 @@ The React app includes the following 3 pages:
 
 [Back end walk through](quickBackEnd.gif) 
 <p>
-<image src = Backend.gif title = "Back end walk through" width = 450 height = 450><br>
+<image src = quickBackEnd.gif title = "Back end walk through" width = 450 height = 450><br>
 </p>

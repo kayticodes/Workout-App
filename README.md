@@ -23,6 +23,7 @@ Various React components are used to generate the table and global navigation fe
 <image src = FrontEnd.gif title = "Front end walk through" width = 450 height = 450><br>
 </p>
 
+<<<<<<< HEAD
 CRUD operation is supported by a REST API by implementing the following 4 endpoints:
 
 - Create using POST/workouts
@@ -31,6 +32,9 @@ CRUD operation is supported by a REST API by implementing the following 4 endpoi
 - Delete using DELETE/workouts/:id
 
 [Back end walk through](Backend.gif) 
+=======
+[Back end walk through](quickBackEnd.gif) 
+>>>>>>> e87f4648cbbb5a6c28be161bb296fdb808be7149
 <p>
 <image src = Backend.gif title = "Back end walk through" width = 450 height = 450><br>
 </p>
